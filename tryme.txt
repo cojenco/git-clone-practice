@@ -1,0 +1,4 @@
+git diff command is used to view uncommitted changes.
+
+
+git show command displays an existing commit
